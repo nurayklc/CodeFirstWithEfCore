@@ -21,7 +21,7 @@ Successfully created database.
 
 ## 2- Serilog with .Net 6
  - I developed an example using serilog library in .net 6 version.
- - [Medium Story](https://medium.com/@nuraykilic/code-first-yaklasimi-ile-entity-framework-a63706772278)
+ - [Medium Story](https://medium.com/@nuraykilic/serilog-ile-net-6da-loglama-i%CC%87%C5%9Flemleri-89b04ef32303)
 ---
 ### Used Techs
 - .Net 6 WebAPI
